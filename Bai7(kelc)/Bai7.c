@@ -1,3 +1,5 @@
+//TRẦN HUY HOÀNG K61 ĐẠI HỌC VINH 
+//MSSV 205752021610030
 #include <REGX52.H>
 
 #define B1 P1_0
