@@ -1,4 +1,6 @@
-//TRAN HUY HOANG 205752021610030
+//TRẦN HUY HOÀNG K61 ĐẠI HỌC VINH 
+//MSSV 205752021610030
+
 sbit LCD_RS at P2_0_bit;
 sbit LCD_EN at P2_1_bit;
 sbit LCD_D4 at P2_2_bit;
