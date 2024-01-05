@@ -1,14 +1,14 @@
-// khai b·o th˝ vi?n
-
+//TR·∫¶N HUY HO√ÄNG K61 ƒê·∫†I H·ªåC VINH 
+//MSSV 205752021610030
 #include <REGX52.H>
-// khai b·o ch‚n
+// khai b√°o ch√¢n
 
 #define LED1 P1_1
 #define LED2 P1_2
 
-// khai b·o bi?n
+// khai b√°o bi?n
 int i;
-// h‡m tr?
+// h√†m tr?
 void delay(){
 	TMOD = 0x01;// timer 0 che do 16 bit che do 1
 	TH0 = 0x3C;
@@ -18,7 +18,7 @@ void delay(){
 	TF0 = 0;
 	TR0 = 0;
 }
-// h‡m chÌnh
+// h√†m ch√≠nh
 void main(){
 	LED1=1;
 	LED2=1;
